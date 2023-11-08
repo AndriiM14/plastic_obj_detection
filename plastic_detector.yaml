@@ -1,0 +1,11 @@
+path: C:\Users\child\nulp\ml_courseproj\code\data
+
+train: images\train
+test: images\test
+val: images\validation
+
+names:
+  0: plastic_bag
+  1: plastic_bottle
+  2: other_plastic_waste
+  3: not_plastic_waste
